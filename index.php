@@ -46,7 +46,7 @@
                     </button>
 
                     <!-- Logo -->
-                    <a class="navbar-brand" href="index.html"><img class="logo" id="logo" src="" alt="Moto.ru"></a>
+                    <a class="navbar-brand" href="index.html">Moto.ru</a>
 
                 </div>
                 <!-- Navbar Toggle End -->
